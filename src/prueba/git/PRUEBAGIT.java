@@ -15,7 +15,7 @@ public class PRUEBAGIT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Prueba sin resultado");
+        System.out.println("Prueba exitosa");
     }
     
 }
